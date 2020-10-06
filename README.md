@@ -13,7 +13,7 @@ Celebrating the spirit of Open-Source ! This repo is aimed at people who are new
 </p>
 
 ## What can you do?
-If you know a popular **Data Structure Realted** algorithm, that you think can be beneficial for others, fork this repo, add the code and create a PR. **It can be in any Language !!! (Programming ofcourse)**.<br><br>
+If you know a popular **Data Structure Related** algorithm, that you think can be beneficial for others, fork this repo, add the code and create a PR. **It can be in any Language !!! (Programming ofcourse)**.<br><br>
 **Do remember that your single contribution can make a person's interview successful !!!**
 
 ## How to do it?
