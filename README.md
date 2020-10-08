@@ -19,7 +19,7 @@ If you know a popular **Data Structure Related** algorithm, that you think can b
 ## How to do it?
 - Add a star to this repo, because you are a star yourself :star: :star:
 - Fork this repo :fork_and_knife:
-- Create a new branch. Change by Mohit
+- Create a new branch
 - Create a clone on your local machine :computer:
 - Make sure your code is in directory of your chosen data structure.
 - Add the algorithm's code in the language specific folder. If you don't see a folder for your chosen language, create one for yourself. Make sure you keep your file's name similar to your algorithm's name.
