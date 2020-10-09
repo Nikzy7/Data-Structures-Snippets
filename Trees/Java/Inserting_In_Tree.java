@@ -1,11 +1,10 @@
 // Java program to insert element in binary tree
 import java.util.LinkedList;
 import java.util.Queue;
-public class InsertingInTree 
+public class Inserting_In_Tree 
 {
  
-    /* A binary tree node has key, pointer to
-    left child and a pointer to right child */
+    
     static class Node {
         int key;
         Node left, right;
@@ -43,14 +42,13 @@ public class InsertingInTree
         Queue<Node> q = new LinkedList<Node>();
         q.add(temp);
  
-        // Do level order traversal until we find
-        // an empty place.
         while (!q.isEmpty()) {
             temp = q.peek();
             q.remove();
  
             if (temp.left == null) {
                 temp.left = new Node(key);
+                
                 break;
             }
             else
@@ -58,6 +56,7 @@ public class InsertingInTree
  
             if (temp.right == null) {
                 temp.right = new Node(key);
+                
                 break;
             }
             else
@@ -65,7 +64,6 @@ public class InsertingInTree
         }
     }
  
-    // Driver code
     public static void main(String args[])
     {
         root = new Node(10);
