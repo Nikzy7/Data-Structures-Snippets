@@ -6,7 +6,7 @@ public static void main(String args[])
 {
 int row, col,i,j;
 Scanner in = new Scanner(System.in);
-//Taking Input of rows and Columns 
+//Taking Input of rows and Column 
 System.out.println("Enter the number of rows");
 row = in.nextInt();
  
